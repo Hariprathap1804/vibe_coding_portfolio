@@ -119,6 +119,7 @@ export default function Navbar() {
           border-radius: var(--radius-sm);
           box-shadow: 2px 2px 0px var(--border-dark);
           transition: transform 0.15s ease;
+          white-space: nowrap;
         }
 
         .brand-stamp:hover {
@@ -128,6 +129,7 @@ export default function Navbar() {
 
         .brand-icon {
           color: var(--accent-terracotta);
+          flex-shrink: 0;
         }
 
         .brand-name {
@@ -136,6 +138,7 @@ export default function Navbar() {
           font-size: 1.05rem;
           letter-spacing: 1px;
           color: var(--text-primary);
+          white-space: nowrap;
         }
 
         .desktop-nav {

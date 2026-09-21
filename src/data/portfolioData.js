@@ -6,7 +6,7 @@ export const personalInfo = {
   phone: "+91 88706 67779",
   linkedin: "https://linkedin.com/in/hariprathapa",
   github: "https://github.com/Hariprathap1804",
-  hackerrank: "https://www.hackerrank.com/Hacker_Rank_Profile",
+  hackerrank: "https://www.hackerrank.com/profile/Hari506",
   careerObjective: "A dedicated Data Analyst with experience from 2021 at IQMath Technologies, where I specialised in product development and served as a Technical Lead. I aim to further develop my skills and enhance my leadership capabilities by contributing to a dynamic organisation. My goal is to leverage my analytical expertise and mentoring experience to drive innovative solutions and support team growth."
 };
 
